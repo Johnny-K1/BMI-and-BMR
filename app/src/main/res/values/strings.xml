@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI a BMR app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="background">background</string>
+    <string name="BMIandBMR">What is your BMI and BMR ?</string>
+    <string name="let_s_start">Let\'s Start</string>
+    <string name="calculatorImage">image</string>
+    <string name="calculatebtn">Calculate</string>
+    <string name="age">Age</string>
+    <string name="height">Height</string>
+    <string name="Weight">weight</string>
+    <string name="_180">180</string>
+    <string name="_70">70</string>
+    <string name="calculate">Calculate</string>
+</resources>
